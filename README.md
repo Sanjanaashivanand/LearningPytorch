@@ -1,7 +1,7 @@
-Welcome to my PyTorch learning space! 🌟
+Hey there! 👋
 
-What's Inside:
+Welcome to my personal PyTorch learning repository. 🚀 
 
-📚 Notebooks:
-Explore the wonderland of PyTorch through my interactive notebooks. From basics to advanced, we're leveling up our PyTorch game together.
+In this repository, I document all my learnings while I dive into the world of PyTorch!
 
+Happy coding and PyTorch-ing! 🚀
